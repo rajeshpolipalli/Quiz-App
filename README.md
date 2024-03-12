@@ -1,2 +1,30 @@
-# Quiz-App
-This repository contains the codebase for a Simple Quiz App designed to offer users an enjoyable way to test their knowledge on various topics. The app provides a straightforward interface for users to answer multiple-choice questions and receive instant feedback on their performance.
+# quiz-app
+A simple quiz app built using HTML, CSS, JavaScript. <br/> 
+Test your knowledge here [quiz-app](https://quizmodule-week-3-3p34g8x1a4kjuelw6w.web.codequotient.com)
+
+## Title and Descrpition 
+Quizapp is an engaging and interactive quiz application built with HTML, CSS, and JavaScript. Test your knowledge across various topics with our carefully crafted questions. This web-based quiz app offers a user-friendly interface, real-time feedback, and a score tracking feature. Whether you're a student preparing for exams or just looking for a fun challenge, QuizMaster has something for everyone.
+## Features
+
+- User-friendly quiz interface.
+- Support for multiple-choice questions.
+- Responsive design for various screen sizes.
+- Results display with correct/incorrect answers.
+- Easy customization for quiz content.
+
+## Technologies Used:
+-CSS
+-JAVASCRIPT
+-HTML
+
+
+## Usage:
+Click the "Start Quiz" button to begin the quiz.
+Answer each question and receive instant feedback.
+Your score is displayed at the end of the quiz.
+
+The app is created by [Polipalli Rajesh](linkedin.com/in/polipalli-rajesh-4b1862294)  how to make Simple Weather Application using HTML, CSS &amp; JavaScript
+
+
+Contact:
+For inquiries, contact [polipallirajesh10@gmail.com].
